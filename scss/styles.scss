@@ -24,7 +24,7 @@ header{ display: flex;
             }
         }
     
-    div{
+    div{ 
         h1{ @include flex;
             margin: 20px;
             color: blueviolet;
